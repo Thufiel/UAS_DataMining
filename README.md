@@ -4,7 +4,7 @@ Nama            : Thufiel Farizy Ash Shiddiq Alkatiri
 
 NIM             : 222220004
 
-Dosen Pengampu  : [url=https://github.com/asrulabdullah99]Asrul Abdullah[/url]
+Dosen Pengampu  : https://github.com/asrulabdullah99
 
 Aplikasi ini telah dijalankan menggunakan Visual Studio Code
 Masukkan kode "pip install -r requirements.txt" (tanpa menggunakan petik)
@@ -18,4 +18,4 @@ Anda akan diberikan hasil prediksi resiko kanker payudara pada sisi kanan halama
 
 Disclaimer: Aplikasi ini hanya untuk pembelajaran, tidak untuk diperjualbelikan
 
-Referensi: [url=https://github.com/asrulabdullah99/dm_logistic_regression]dm_logistic_regression[/url]. Sudah mendapat izin [url=https://github.com/asrulabdullah99]pemilik[/url] untuk cloning repository dan memodifikasi isi
+Referensi: https://github.com/asrulabdullah99/dm_logistic_regression Sudah mendapat izin pemilik untuk cloning repository dan memodifikasi isi
