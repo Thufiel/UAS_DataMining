@@ -9,7 +9,7 @@ colorama==0.4.3
 decorator==4.4.2
 distlib==0.3.1
 filelock==3.0.12
-Flask==1.1.2
+Flask==2.2.2
 Flask-WTF==0.14.3
 gunicorn==20.1.0
 idna==3.2
@@ -28,7 +28,7 @@ lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 numpy==1.20.2
-pandas==1.2.4
+#pandas==1.2.4
 parso==0.7.1
 pickleshare==0.7.5
 prompt-toolkit==3.0.8
@@ -53,5 +53,5 @@ traitlets==5.0.5
 urllib3==1.26.6
 virtualenv==20.0.31
 wcwidth==0.2.5
-Werkzeug==1.0.1
+#Werkzeug==1.0.1
 WTForms==2.3.3
